@@ -1,0 +1,39 @@
+---
+spring:
+  application:
+    name: spring-cloud-eureka-double
+  profiles: master
+server:
+  port: 8000
+eureka:
+  instance:
+    hostname: master
+  client:
+    serviceUrl:
+      defaultZone: http://slaves:8001/eureka/,http://slaves2:8002/eureka/
+---
+spring:
+  application:
+    name: spring-cloud-eureka-double
+  profiles: slaves
+server:
+  port: 8001
+eureka:
+  instance:
+    hostname: slaves
+  client:
+    serviceUrl:
+      defaultZone: http://master:8000/eureka/,http://slaves2:8002/eureka/
+---
+spring:
+  application:
+    name: spring-cloud-eureka-double
+  profiles: slaves2
+server:
+  port: 8002
+eureka:
+  instance:
+    hostname: slaves2
+  client:
+    serviceUrl:
+      defaultZone: http://master:8000/eureka/,http://slaves:8001/eureka/
