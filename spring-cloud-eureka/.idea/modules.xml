@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-eureka.iml" filepath="$PROJECT_DIR$/spring-cloud-eureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-eureka-cluster/spring-cloud-eureka-cluster.iml" filepath="$PROJECT_DIR$/spring-cloud-eureka-cluster/spring-cloud-eureka-cluster.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-eureka-double/spring-cloud-eureka-double.iml" filepath="$PROJECT_DIR$/spring-cloud-eureka-double/spring-cloud-eureka-double.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-eureka-standalone/spring-cloud-eureka-standalone.iml" filepath="$PROJECT_DIR$/spring-cloud-eureka-standalone/spring-cloud-eureka-standalone.iml" />
+    </modules>
+  </component>
+</project>
