@@ -15,4 +15,4 @@
 
 
 ### 博客地址
-[spring-cloud-eureka：eureka server单机、双机、集群示例] (http://www.cnblogs.com/nbfujx/p/7976905.html)  </br>
+[spring-cloud-eureka：eureka server单机、双机、集群示例](http://www.cnblogs.com/nbfujx/p/7976905.html)  </br>
