@@ -16,3 +16,9 @@
 
 ### 博客地址
 [spring-cloud-eureka：eureka server单机、双机、集群示例](http://www.cnblogs.com/nbfujx/p/7976905.html)  </br>
+
+[spring-cloud-eureka-producer-consumer：利用eureka实现服务提供与调用示例](http://www.cnblogs.com/nbfujx/p/7992988.html)  </br>
+
+[spring-cloud-hystrix：Hystrix熔断的使用示例](http://www.cnblogs.com/nbfujx/p/7993000.html)  </br>
+
+[spring-cloud-hystrix-dashboard-turbine：熔断监控Hystrix Dashboard和Turbine的示例](http://www.cnblogs.com/nbfujx/p/7993003.html)  </br>
