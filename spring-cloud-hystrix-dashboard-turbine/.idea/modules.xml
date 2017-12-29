@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-consumer-hystrix/spring-cloud-consumer-hystrix.iml" filepath="$PROJECT_DIR$/spring-cloud-consumer-hystrix/spring-cloud-consumer-hystrix.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-consumer-turbine1/spring-cloud-consumer-turbine1.iml" filepath="$PROJECT_DIR$/spring-cloud-consumer-turbine1/spring-cloud-consumer-turbine1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-consumer-turbine2/spring-cloud-consumer-turbine2.iml" filepath="$PROJECT_DIR$/spring-cloud-consumer-turbine2/spring-cloud-consumer-turbine2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-eureka/spring-cloud-eureka.iml" filepath="$PROJECT_DIR$/spring-cloud-eureka/spring-cloud-eureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-turbine/spring-cloud-turbine.iml" filepath="$PROJECT_DIR$/spring-cloud-turbine/spring-cloud-turbine.iml" />
+    </modules>
+  </component>
+</project>
