@@ -9,6 +9,6 @@ spring:
         git:
           uri: https://github.com/nbfujx/springCloud-learn-demo/     # 配置git仓库的地址
           search-paths: config-repo                             # git仓库地址下的相对地址，可以配置多个，用,分割。
-          username:                                            # git仓库的账号
-          password: 
+          username: nbfujx@qq.com                                            # git仓库的账号
+          password: fjx65159675
           strict-host-key-checking: false
