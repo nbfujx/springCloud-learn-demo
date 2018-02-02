@@ -1,0 +1,14 @@
+server:
+  port: 8061
+spring:
+  application:
+    name: spring-cloud-zuul
+  zipkin:
+    base-url: http://localhost:9000
+  sleuth:
+    sampler:
+      percentage: 1.0
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: http://master:8071/eureka/

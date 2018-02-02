@@ -1,0 +1,9 @@
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: http://master:8071/eureka/
+server:
+  port: 9000
+spring:
+  application:
+    name: zipkin-server
