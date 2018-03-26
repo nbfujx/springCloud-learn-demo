@@ -9,7 +9,7 @@
 #### spring-cloud-config-eureka：配置中心服务化和高可用代码示例
 #### spring-cloud-config-eureka-bus：配置中心和消息总线示例（配置中心终结版）
 #### spring-cloud-gateway-service-zuul：服务网关zuul的使用示例
-#### spring-cloud-sleuth：服务链路追踪示例
+#### spring-cloud-sleuth-zipkin：服务链路追踪示例
 #### spring-cloud-servicecomb：华为微服务框架ServiceComb
 
 
